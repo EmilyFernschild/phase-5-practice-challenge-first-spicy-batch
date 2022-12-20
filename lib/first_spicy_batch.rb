@@ -4,5 +4,5 @@
 # def is_spicy_batch(batch):
 
 def first_spicy_batch(n)
-  # your code here
+  is_spicy_batch.find_by(batch: true)
 end
